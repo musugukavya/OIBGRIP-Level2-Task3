@@ -20,12 +20,12 @@ h1{
 	padding: 10px;
 	margin: 50px auto;
 }
-.addTask{
+.task{
 	width: 100%;
 	display: flex;
 	padding: 10px 0;
 }
-.addTask > input[type="text"]{
+.task > input[type="text"]{
 	width: 90%;
 	color: rgb(156, 18, 105);
 	border:none;
@@ -35,7 +35,7 @@ h1{
 	font-size: 22px;
 	outline: none;
 }
-.addTask button{
+.task button{
 	margin: 0 10px;
 	background: #222;
 	color: rgb(250, 247, 252);

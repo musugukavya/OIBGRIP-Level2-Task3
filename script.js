@@ -1,5 +1,5 @@
 		const input = document.querySelector('input');
-		const btn = document.querySelector('.addTask > button');
+		const btn = document.querySelector('.task > button');
 
 		btn.addEventListener('click', addList);
 		input.addEventListener('keyup', (e)=>{
